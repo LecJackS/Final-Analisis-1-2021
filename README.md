@@ -19,9 +19,9 @@ Repo donde subí notas y ejercicios mientras me preparaba para el final de Anál
 
 > Recursarla en verano (aunque ya esté aprobada) puede ser una muy buena forma preparlo si te cuesta organizarte o arrancar a hacerlo.
 
-> Siguiendo [la página del DM de Análisis 1](http://cms.dm.uba.ar/academico/materias/1ercuat2020/analisis_1_M/) (probablemente la actualicen el año próximo, 2022, con videos mucho más producidos) se pueden ver los videos de las distintas clases teóricas (son 28), salteando los ejemplos muy nabos, y tomando nota de las ideas principales.
+> Siguiendo [la página del DM de Análisis 1](http://cms.dm.uba.ar/academico/materias/1ercuat2020/analisis_1_M/) (probablemente la actualicen el año próximo, 2022, con videos mucho más producidos) se pueden ver los videos de las distintas clases teóricas (son 28), salteando los ejemplos muy nabos, y [tomando nota de las ideas principales](./Notas).
 > 
-> De ahí ya se puede pasar a resolver parciales, tomando nota de lo que todavía cuesta o no se entiende, lo que está medio medio, y lo que ya sale fácil.
+> De ahí ya se puede pasar a resolver parciales, escribiendo para repasar lo que todavía cuesta o no se entiende, lo que está medio medio, y lo que ya sale fácil.
 > 
 > Yo arranqué primero a resolver algunos primeros parciales, después segundos parciales, y después 1 y 1 intercalados, 1 por día, casi a diario.
 > 
