@@ -1,4 +1,4 @@
-# Final Analisis 1 (M) - Julio 2021
+# Final Analisis 1 (M) - Octubre 2021
 
 Repo donde subí notas y ejercicios mientras me preparaba para el final de Análisis 1 que fui pateando desde el inicio de los tiempos y luego pandemia y luego otras materias + laburo.
 
