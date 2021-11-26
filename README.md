@@ -7,8 +7,8 @@ Repo donde subí notas y ejercicios mientras me preparaba para el final de Anál
 ### Machete de temas para recordar (no extensivo):
 * https://github.com/LecJackS/Final-Analisis-1-2021/blob/main/Recordar.pdf
 
-### Canal de Youtube con videos de resoluciones de parciales y finales
-* https://www.youtube.com/channel/UCEXYShrJ6pky361QB-cRt3A/videos
+### Playlist de Youtube con videos de resoluciones de parciales y finales
+* https://youtube.com/playlist?list=PLsU9ReJDn9fw-GcRGKDHe9ZfJiKXrZZOJ
 
 ### Clases grabadas, prácticas resueltas y material de cursada:
 * http://cms.dm.uba.ar/academico/materias/1ercuat2020/analisis_1_M/
